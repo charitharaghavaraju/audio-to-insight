@@ -82,6 +82,7 @@ python3 audio_insight.py
 
 ## Example query:
 ```bash
-"Summarize the main discussion points and next steps."````
+"Summarize the main discussion points and next steps."
+```
 
 
